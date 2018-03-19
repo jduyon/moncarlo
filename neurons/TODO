@@ -1,0 +1,14 @@
+hmc.py:
+
+ - HMCNeuron:
+   Implement grad_obj function function & test
+   Implement objective function function & test
+   Refactor train function and get under test.
+
+util.py:
+
+ -zero_center:
+   Test
+
+ -normalize:
+   Test
